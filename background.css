@@ -1,0 +1,24 @@
+body{
+    background: url(carman.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px;
+    background-attachment: fixed;
+}
+
+.Heading1{
+    background-color: #ababcd;
+}
+
+.Heading2{
+    background-color: #feff5c;
+}
+
+.Heading3{
+    background-color: rgb(80, 75, 91);
+}
+
+.Heading4{
+    background-color: rgb(60, 188, 190);
+}
+
