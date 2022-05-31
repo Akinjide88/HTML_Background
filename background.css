@@ -7,18 +7,18 @@ body{
 }
 
 .Heading1{
-    background-color: #ababcd;
+    background-color: rgb(171, 171, 205);
 }
 
 .Heading2{
-    background-color: #feff5c;
+    background-color: rgb(254, 255, 92);
 }
 
 .Heading3{
-    background-color: rgb(80, 75, 91);
+    background-color: #504B5B;
 }
 
 .Heading4{
-    background-color: rgb(60, 188, 190);
+    background-color: #3CBC5A;
 }
 
